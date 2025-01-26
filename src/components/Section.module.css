@@ -1,0 +1,90 @@
+.section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  background: #dfe0e1;
+}
+
+.pagePart1 {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pagePart2 {
+  display: block;
+}
+
+.homeTitle {
+  font-size: 72px;
+  color: white;
+  font-weight: 700;
+}
+
+.sectionSubtitle {
+  font-size: 32px;
+  color: white;
+  font-weight: 300;
+}
+
+.sectionTitle {
+  font-size: 48px;
+  color: black;
+  margin-bottom: 30px;
+}
+
+.sectionList li {
+  font-size: 24px;
+}
+
+.sectionList .listItemHeading {
+  font-size: 48px;
+  margin-bottom: 30px;
+}
+
+.sectionList .listItemHeading span {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.pageImage {
+  width: 60%;
+  max-width: 700px;
+}
+
+h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.twoCol {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr;
+  width: 100%;
+  height: 100%;
+  gap: 50px;
+
+  @media screen and (min-width: 720px) {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 0;
+  }
+}
+
+.externalLink {
+  margin-top: 30px;
+  font-size: 26px;
+  color: black;
+}
+
+.pageText {
+  font-size: 24px;
+  margin-bottom: 30px;
+}
