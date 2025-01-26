@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/wedding/static/css/main.2ce3aa34.css",
+    "main.js": "/wedding/static/js/main.458c4058.js",
+    "static/js/453.7e3e3be8.chunk.js": "/wedding/static/js/453.7e3e3be8.chunk.js",
+    "static/media/sarah-titchwell.jpg": "/wedding/static/media/sarah-titchwell.b3d1264e397d5509083b.jpg",
+    "static/media/greece-chicken.jpg": "/wedding/static/media/greece-chicken.d8ccc8f62054e54b07ab.jpg",
+    "static/media/beach.jpg": "/wedding/static/media/beach.66fc35613d92649a39de.jpg",
+    "static/media/southwold.jpg": "/wedding/static/media/southwold.c7991581e44e718e7965.jpg",
+    "index.html": "/wedding/index.html",
+    "main.2ce3aa34.css.map": "/wedding/static/css/main.2ce3aa34.css.map",
+    "main.458c4058.js.map": "/wedding/static/js/main.458c4058.js.map",
+    "453.7e3e3be8.chunk.js.map": "/wedding/static/js/453.7e3e3be8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ce3aa34.css",
+    "static/js/main.458c4058.js"
+  ]
+}
