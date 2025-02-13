@@ -9,7 +9,7 @@ const CeremonySection = () => {
       <div className={styles.pagePart1}>
         <h1 className={styles.sectionTitle}>Ceremony</h1>
         <ul className={styles.sectionList}>
-          <li className={styles.listItemHeading}>1:00 <span>PM</span></li>
+          <li className={styles.listItemHeading}>1:30 <span>PM</span></li>
           <li>St Mary's Church</li>
           <li>Titchwell</li>
           <li>PE31 8BA</li>
